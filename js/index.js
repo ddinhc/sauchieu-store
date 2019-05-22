@@ -51,7 +51,7 @@ normalizeHeights();
 jQuery(window).on('resize orientationchange', function () {
 shortest = 0, heights.length = 0; //reset vars
 items.each(function() {
-jQuery('.carousel-inner').css('height','0'); //reset min-height
+jQuery('.carousel-item').css('height','0'); //reset min-height
 });
 normalizeHeights(); //run it again
 });
