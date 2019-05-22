@@ -9,14 +9,7 @@ container-fluid {
 .brand {
 	height: 35px;
 }
-.carousel-inner .item .center-block {
-	width: 50em;
-}
 
-.carousel-inner img {
-    height: 50%;
-    
-}
 h1 {
 	font-size: 3em;
 	padding-top: 0.6em;
