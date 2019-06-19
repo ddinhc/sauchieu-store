@@ -31,6 +31,7 @@ a:hover {
 }
 
 
+
 .border-around {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -40,6 +41,7 @@ a:hover {
 	margin-bottom: 5px;
     padding-top: 5px;
 	min-height: 100%;
+	border-radius: 2rem;
 }
 .contact-aside {
 	width: 35%;
@@ -103,6 +105,13 @@ a:hover{
 	color: rgba(0,0,0,9) !important;
 	text-decoration: none !important;
 	}
+
+
+
+
+#navbarDropdown button {
+    border: none !important;
+}
 	
 .btn-link:hover, .btn-link:focus {
 	text-decoration: none !important;
