@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
-import { FormBuilder, FormGroup, Validators, FormControl } from '@angular/forms'
+import { FormGroup, Validators, FormControl } from '@angular/forms'
 import {HttpClient, HttpHeaders} from '@angular/common/http';
- 
+
 @Component({ 
     templateUrl: 'contact.component.html'
  })
