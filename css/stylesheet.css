@@ -1,0 +1,138 @@
+@charset "UTF-8";
+html, body {
+	margin: 0;
+	height: 100%;
+}
+container-fluid {
+	height: 100%;
+}
+.brand {
+	height: 35px;
+}
+
+h1 {
+	font-size: 3em;
+	padding-top: 0.6em;
+}
+h2 {
+	font-size: 2em;
+}
+h3 {
+	font-size: 1.5em;
+}
+a {
+	color: #8B0D32;
+}
+a:hover {
+	color: #953E3E;
+	text-decoration: none;
+}
+
+
+.border-around {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	border: 1px solid #8B0D32;
+	text-align: center;
+	margin-bottom: 5px;
+	min-height: 100%;
+}
+.contact-aside {
+	width: 35%;
+	margin: 0;
+	padding: 0;
+	float: right;
+}
+.contact-article {
+	width: 55%;
+	float: left;
+}
+.contact-content {
+	overflow: hidden;
+}
+.footer-container a, .copyright a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.footer-container a:hover, .copyright a:hover {
+	color: #D4CFCF;
+}
+.copyright {
+	border: 2px solid #000000;
+	overflow: hidden;
+	background-color: #000000;
+	color: #FFFFFF;
+}
+.footer-container {
+	background-image: -webkit-linear-gradient(270deg, rgba(255,255,255,1.00) 0.52%, rgba(139,13,50,1.00) 0.52%), url(url);
+	background-image: -moz-linear-gradient(270deg, rgba(255,255,255,1.00) 0.52%, rgba(139,13,50,1.00) 0.52%), url(url);
+	background-image: -o-linear-gradient(270deg, rgba(255,255,255,1.00) 0.52%, rgba(139,13,50,1.00) 0.52%), url(url);
+	background-image: linear-gradient(180deg, rgba(255,255,255,1.00) 0.52%, rgba(139,13,50,1.00) 0.52%), url(url);
+	color: #FFFFFF;
+}
+@charset "utf-8";
+/* CSS Document */
+
+/*.carousel-item:after {
+  content:"";
+  display:block;
+  position:absolute;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+  background:#080d15;
+   opacity: .7;
+}*/
+	.carousel-caption
+			{
+				position: absolute;
+				right: 0;
+				bottom: 0;
+				left: 0;
+				z-index: 10;
+				padding-top: 10%;
+				padding-bottom: auto;
+				color: #fff;
+				text-align: center;
+				background: rgba(0,0,0,0.4);
+			}
+
+.responsive {
+  width: 100%;
+  max-height: 550px;
+  height: auto;
+}
+a {
+	color: #dc3545;
+}
+
+a:hover{
+	color: rgba(0,0,0,9);
+	text-decoration: none;
+	}
+	
+.btn-link:hover, .btn-link:focus {
+	text-decoration: none !important;
+	}
+.btn-link{
+	white-space:normal;
+}
+	
+.card-header:hover {
+	background-color: #dc3545;
+	color: #fff;
+}
+
+[data-toggle="collapse"] .fa:before {  
+   font-family: "Font Awesome 5 Free";
+	content: "\f139";
+	font-weight: 900;
+}
+
+[data-toggle="collapse"].collapsed .fa:before {
+font-family: "Font Awesome 5 Free";  
+		content: "\f13a";
+	font-weight: 900;
+}
