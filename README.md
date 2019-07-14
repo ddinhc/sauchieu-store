@@ -31,4 +31,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 This repository got moved to https://github.com/ddinhc/sauchieu-autopart.
 
 Thanks.
+<<<<<<< HEAD
 >>>>>>> 99086ec... Create README.md
+=======
+>>>>>>> 99086ec7bf347eefead1a6c2d3f13b78609ba7ca
+>>>>>>> 7c468d3f32affbac0248a6a108228d4367fbb923
