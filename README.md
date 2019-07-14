@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AngBoot
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.
@@ -26,13 +25,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-=======
 # sauchieu-store
 This repository got moved to https://github.com/ddinhc/sauchieu-autopart.
 
 Thanks.
-<<<<<<< HEAD
->>>>>>> 99086ec... Create README.md
-=======
->>>>>>> 99086ec7bf347eefead1a6c2d3f13b78609ba7ca
->>>>>>> 7c468d3f32affbac0248a6a108228d4367fbb923
+
